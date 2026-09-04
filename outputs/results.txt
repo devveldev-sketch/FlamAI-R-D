@@ -1,0 +1,40 @@
+Assignment 1 - Parameter Estimation
+============================================================
+
+Theta (degrees): 29.9999729322
+M: 0.0299999969
+X: 54.9999982128
+
+Rounded parameters:
+Theta = 30 degrees
+M = 0.03
+X = 55
+
+Parameter validation:
+Theta valid: True
+M valid: True
+X valid: True
+
+Recovered t range:
+Minimum t: 6.0494054727
+Maximum t: 59.9951707023
+t constraint satisfied: True
+
+Residual statistics:
+Mean squared residual: 1.215331957292e-11
+Mean absolute residual: 2.559805438534e-06
+Maximum absolute residual: 1.761505485520e-05
+
+Pointwise reconstruction:
+Mean |x error|: 1.279901671940e-06
+Mean |y error|: 2.216857142855e-06
+Max |x error|: 8.807520217147e-06
+Max |y error|: 1.525508915279e-05
+Mean pointwise L1 error: 3.496758814795e-06
+
+Uniformly sampled curve evaluation:
+Number of evaluation points: 1500
+Evaluation t range: 6.0494054727 to 59.9951707023
+Uniform curve L1 distance (sum): 2.583681874781e-01
+Uniform curve L1 distance (mean): 1.722454583187e-04
+Maximum sampled L1 error: 9.082030708996e-03
